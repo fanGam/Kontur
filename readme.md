@@ -89,3 +89,6 @@ min_scores = (
 ```
 correct_ans = df[df["user_id"] == 1].set_index("question_id")["answer"]
 ```
+
+## Пояснение
+В проекте находится [файл](main_jp.ipynb) Jupiter Notebook в котором находятся пример для тестирования и логическое разбиение
